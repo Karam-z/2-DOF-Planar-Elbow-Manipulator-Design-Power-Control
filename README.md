@@ -34,10 +34,9 @@ This project integrates mechanical design, power electronics, and non-linear con
 
 
 
-## 🛠️ Part 1: Mechanical Design (SolidWorks)
+🛠️ Part 1: Mechanical Design (SolidWorks)
 
-### Objective
-Design a 700 mm manipulator arm capable of supporting a 1 N payload while satisfying:
+The manipulator structure was designed to minimize inertia while maintaining sufficient stiffness and strength under static loading.
 
 - Factor of Safety (FOS) > 1 for aluminum parts  
 - Factor of Safety (FOS) > 2 for bolted connections  
