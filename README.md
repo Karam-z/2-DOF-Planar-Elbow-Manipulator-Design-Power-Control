@@ -34,7 +34,7 @@ This project integrates mechanical design, power electronics, and non-linear con
 
 
 
-## 🛠️ Part 1: Mechanical Design (SolidWorks)
+**## 🛠️ Part 1: Mechanical Design (SolidWorks)**
 
 ### Objective
 Design a 700 mm manipulator arm capable of supporting a 1 N payload while satisfying:
