@@ -76,6 +76,8 @@ Static simulations were performed in SolidWorks Simulation.
 
 **Outcome:**  
 The design passed all strength and deflection requirements with FOS > 1 for aluminum parts and FOS > 2 for all bolted connections.
+```
+```
 
 ##⚡ Part 2: Electrical Power System (LTspice)
 
