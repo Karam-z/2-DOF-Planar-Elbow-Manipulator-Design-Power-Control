@@ -31,10 +31,13 @@ This project integrates mechanical design, power electronics, and non-linear con
 │   └── Control_System_Report.docx
 │
 └── Assets/                     # Project Visuals
+```
 
 
 
-🛠️ Part 1: Mechanical Design (SolidWorks)
+
+##🛠️ Part 1: Mechanical Design (SolidWorks)
+
 
 The manipulator structure was designed to minimize inertia while maintaining sufficient stiffness and strength under static loading.
 
@@ -74,7 +77,7 @@ Static simulations were performed in SolidWorks Simulation.
 **Outcome:**  
 The design passed all strength and deflection requirements with FOS > 1 for aluminum parts and FOS > 2 for all bolted connections.
 
-## ⚡ Part 2: Electrical Power System (LTspice)
+##⚡ Part 2: Electrical Power System (LTspice)
 
 ### Objective
 Design a DC-DC Buck-Boost converter to drive the DC motor armature from a 12 V source while ensuring:
